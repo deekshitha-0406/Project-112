@@ -1,1 +1,2 @@
 # Project-112
+GitHub is a web-based platform that uses Git for version control to facilitate collaboration on software development projects. It allows developers to store, track, and manage changes to code, and collaborate with others on projects, even remotely. Essentially, GitHub is a hosting service for Git repositories, offering features like code sharing, issue tracking, and project management tools. 
